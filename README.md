@@ -52,7 +52,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinejudecuevas/)
-[![Portfolio](https://img.shields.io/badge/-Globe-D14836?style=flat-square&logo=globe&logoColor=white)](https://www.devjustine.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.devjustine.me/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:justinecuevas19@gmail.com)
 
 </div>
