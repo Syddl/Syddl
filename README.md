@@ -21,7 +21,7 @@
 <div align="center">
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | Python | Python (FastApi),<br>TypeScript (NextJS) | TypeScript (TypeScript),<br>CSS (Tailwind) |
   
 </div>
