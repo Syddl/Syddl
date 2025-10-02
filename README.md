@@ -22,7 +22,7 @@
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** |
 | :---: | :---: | :---: |
-| Python | Python (FastApi),<br>TypeScript (NextJS) | TypeScript (NextJS),<br>CSS (Tailwind) |
+| Python | Python (FastApi),<br>React (NextJS) | TypeScript (NextJS),<br>CSS (Tailwind) |
   
 </div>
 
