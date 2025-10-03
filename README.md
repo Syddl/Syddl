@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Frond-End+Developer+|+NextJS%2C+TypeScript%2C+FastApi;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
-
 </div>
 
 ---
