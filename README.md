@@ -3,7 +3,8 @@
 # 👋🏼 Hi there! I'm Justine Jude Cuevas 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Frond-Stack+Developer+in+Making+|+NextJS%2C+TypeScript%2C+FastApi;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Developer+(in+the+making)+|+Next.js%2C+TypeScript%2C+FastAPI;Building+software+solutions+to+solve+real-world+problems)](https://git.io/typing-svg)
+)
 
 </div>
 
