@@ -18,14 +18,6 @@
   </a>
 </p>
 
-<div align="center">
-  
-| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** |
-| :---: | :---: | :---: |
-| Python | Python (FastApi),<br>React (NextJS) | TypeScript (NextJS),<br>CSS (Tailwind) |
-  
-</div>
-
 ---
 
 <div align="center">
