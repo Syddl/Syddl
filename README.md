@@ -1,6 +1,6 @@
 # Justine Jude Cuevas
 
-AI Full-Stack Engineer in the Philippines (UTC+8). I build LLM-powered products end to end, and the agent tooling I build them with.
+AI Full-Stack Engineer in the Philippines. I build LLM-powered products end to end, and the agent tooling I build them with.
 
 ### What I've built
 
